@@ -1,0 +1,15 @@
+Give a string is NULL
+When check
+Then return NULL
+
+Give a string is not comtain vowels (aeiou)
+When check
+Then return itself
+
+Give a string comtain vowels (aeiou) and the number of vowels(aeiou) are less than 30% of the string length
+When check
+Then return itself
+
+Give the number of vowels(aeiou) are more than 30% of the string length
+When check
+Then return insert ‘mommy’ for each continuous set of vowels
